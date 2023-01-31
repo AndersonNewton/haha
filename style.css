@@ -1,0 +1,40 @@
+.heading{
+
+width:80%;
+font-size: 56.3px;
+}
+
+body{
+
+background-color:skyblue;
+
+}
+
+.bold{
+
+font-size: 26.74;
+color:cornflowerblue;
+
+}
+
+#camera{
+
+    width: 350px;
+    height: 300px;
+    border : 2px dotted black;
+}  
+
+#bad_1{
+
+    width:300px;
+    height:50px;
+    margin-right:10px;
+
+}
+#bad_2{
+
+    width:300px;
+    height:50px;
+    margin-left:10px;
+
+}
